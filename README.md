@@ -1,3 +1,7 @@
+This is work in-progress repository to create modern UX screens in React JS using TailwindCSS and Tanstack Router. Moving away from traditional UI screens and introducing seamless and more user friendly, efficient way of connecting with users. All the screens are inspired from live websites around the globe. 
+
+**Moving away from traditional side navigation: (video)**: https://drive.google.com/file/d/1NewU6W8cCLi1Gde-jLXuvgfhSYpP62x3/view?usp=sharing
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
